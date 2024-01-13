@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I am Vaishnavi Naikwade</h1>
-<h3 align="center">Passionate Data Science Enthusiast</h3>
-
-
+<br>
+<h3 align="center">⭐Passionate Data Science Enthusiast⭐</h3>
+<br>
 - 🤖 I’m currently working on project **Chatbot for Municipal Council**
 
 - 🎓📚💻 **Computer Engineering student at Sanjivani College of Engineering**
