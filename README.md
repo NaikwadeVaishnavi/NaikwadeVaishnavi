@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">⭐Passionate Data Science Enthusiast⭐</h3>
 <br>
-- 🤖 I’m currently working on project **Chatbot for Municipal Council**
+- 🤖 I’m currently working on project <strong>**Chatbot for Municipal Council**</strong>
 
 - 🎓📚💻 **Computer Engineering student at Sanjivani College of Engineering**
 
