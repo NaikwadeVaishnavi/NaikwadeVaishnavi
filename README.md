@@ -7,9 +7,9 @@
 - 🎓📚💻 **Computer Engineering student at Sanjivani College of Engineering**
 
 - 👩🏻‍💻 All of my projects are available at [GitHub](https://github.com/NaikwadeVaishnavi)
-
+<!--
 - 👨‍💻 Must visit my  [Portfolio](portfolio)
-
+-->
 - 💭 Ask me about <strong>**Python, SQL, NLP, Machine Learning **</strong>
 
 - 📧 How to reach me: [naikwadevaishnavi2002@gmail.com](mailto:naikwadevaishnavi2002@gmail.com)
