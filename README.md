@@ -2,7 +2,7 @@
 <h3 align="center">⭐Passionate Data Science Enthusiast⭐</h3><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaikwadeVaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="NaikwadeVaishnavi" /> </p>
 <br>
-- 🤖 I’m currently working on project **Trading Derivatives of the gift city**
+- 🤖 I’m currently working on project "Trading Derivatives of the gift city"
 
 - 🎓📚💻 **Computer Engineering student at Sanjivani College of Engineering**
 
