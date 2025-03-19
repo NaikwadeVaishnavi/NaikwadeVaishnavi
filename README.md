@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-naikwade-223769211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-naikwade-223769211/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vaishnav_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vaishnav_n" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vaishnavinaikwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vaishnavinaikwade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaishnavi-naikwade-223769211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-naikwade-223769211/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vaishnav_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vaishnav_n" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vaishnavinaikwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vaishnavinaikwade" height="30" width="40" /></a>
 </p>
 
 <br><h2 align="left">✨Languages and Tools✨</h2><br>
