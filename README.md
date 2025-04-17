@@ -1,8 +1,7 @@
-<h1 align="center">Hi there! 👋 I am Vaishnavi Naikwade</h1>
+<h1 align="center">Hi there!👋I am Vaishnavi</h1>
 <h3 align="center">⭐Passionate Data Science Enthusiast⭐</h3><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaikwadeVaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="NaikwadeVaishnavi" /> </p>
 <br>
-- 🤖 I’m currently working on project "Trading Derivatives of Gift City"
 
 - 🎓📚💻 **"Application Engineer at Remiges Technologies"**
 
@@ -10,7 +9,8 @@
 <!--
 - 👨‍💻 Must visit my  [Portfolio](portfolio)
 -->
-- 💭 Ask me about <strong>**Python, SQL, NLP, Machine Learning **</strong>
+- 💭 Ask me about <strong> Python, SQL, NLP, Machine Learning, C, C++ </strong>
+- 🤖 I have worked on project "**Trading Derivatives of Gift City**"
 
 - 📧 How to reach me: [naikwadevaishnavi2002@gmail.com](mailto:naikwadevaishnavi2002@gmail.com)
 
