@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaikwadeVaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="NaikwadeVaishnavi" /> </p>
 <br>
 
-I’m a **Application Engineer** at **Remiges Technologies**, specializing in **Data Science**. I have expertise in **Machine Learning**, **Data Science**, **C**, **C++**, , and **Linux**, and I'm passionate about using AI to create innovative solutions to complex challenges. Known for being **hardworking**, **honest**, and always striving to learn and grow in the technology space, I enjoy tackling new problems and continuously evolving my skill set. Currently working on "**Trading Derivatives of Gift City**" at NSE(client side).
+I’m a **Application Engineer** at **Remiges Technologies**, specializing in **Data Science**. I have expertise in **Machine Learning**, **Data Science**, **C**, **C++** and **Linux**, and I'm passionate about using AI to create innovative solutions to complex challenges. Known for being **hardworking**, **honest**, and always striving to learn and grow in the technology space, I enjoy tackling new problems and continuously evolving my skill set. Currently working on "**Trading Derivatives of Gift City**" at NSE(client side).
 
 ## 🔧 Technical Skills
 
