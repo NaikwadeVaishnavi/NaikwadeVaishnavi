@@ -15,6 +15,7 @@ I’m a **Application Engineer** at **Remiges Technologies**, specializing in **
 **Sanjivani College of Engineering**, Kopargaon, Maharashtra  
 Bachelor of Technology (BTech) in Computer Engineering  
 Feb 2021 – May 2024 | CGPA: 8.5
+
 Relevant Coursework: Machine Learning, Generative AI, Artificial Intelligence, Data Analysis
 
 ## Experience:
