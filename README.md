@@ -15,6 +15,31 @@ I’m a **Application Engineer** at **Remiges Technologies**, specializing in **
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+### 🌱 Currently Learning:
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Data Science
+
+## Technical Skills:
+- **Programming Languages**: Python, C++, C, SQL
+- **Version Control**: Git
+- **Database**: PostgreSQL, MySQL
+
+## Education:
+**Sanjivani College of Engineering**, Kopargaon, Maharashtra  
+Bachelor of Technology (BTech) in Computer Engineering  
+Feb 2021 – May 2024 | CGPA: 8.5
+Relevant Coursework: Machine Learning, Generative AI, Artificial Intelligence, Data Analysis
+
+## Experience:
+
+**Remiges Technologies Pvt Ltd**, Mumbai, Maharashtra  
+**Application Engineer - Backend developer**  
+May 2024 – Present  
+- As a Backend Developer, I have been working on the development and integration of new modules in C and shell scripting for NSE IX - SGX Connect, an international exchange facilitating trading of various financial derivatives.
+- I conduct comprehensive impact analysis and system debugging to identify and resolve technical issues, and prepare detailed functional specifications and impact analysis reports to enhance business stakeholders' understanding of technical processes.
+
 ## 📬 Reach Me
 
 - **Email** : [naikwadevaishnavi2002@gmail.com](mailto:naikwadevaishnavi2002@gmail.com)
