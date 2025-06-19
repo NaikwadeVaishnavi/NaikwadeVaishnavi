@@ -15,12 +15,6 @@ I’m a **Application Engineer** at **Remiges Technologies**, specializing in **
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### 🌱 Currently Learning:
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Data Science
-
 ## Technical Skills:
 - **Programming Languages**: Python, C++, C, SQL
 - **Version Control**: Git
